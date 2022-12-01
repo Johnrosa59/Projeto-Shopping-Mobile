@@ -1,0 +1,125 @@
+* {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.content-left {
+    width: 50%;
+    margin: 15% 0 0 10%;
+    display: inline-block;
+}
+
+h1 {
+    width: 368px;
+    height: 160px;
+    font-size: 70px;
+    line-height: 80px;
+    color: #5D5D7D;
+}
+
+p {
+    width: 540px;
+    height: 144px;
+    color: rgba(93, 93, 125, 0.6);
+    font-size: 28px;
+    line-height: 48px;
+}
+
+button {
+    width: 269px;
+    height: 62px;
+    background-color: #9499EA;
+    color: #FFFFFF;
+    font-size: 24px;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px, 10px 24px rgba(148, 153, 234, 0.098);
+}
+
+
+a {
+    color: #5D5D7D;
+    text-decoration: none;
+    font-size: 28px;
+    line-height: 41px;
+    margin-right: 41px;
+}
+
+a:hover {
+    color: rgba(93, 93, 125, 0.4);
+}
+
+.content-right {
+    display: inline-block;
+    position: absolute;
+    width: 40%;
+    background-color: rgba(93, 93, 125, 0.16);
+    height: 100vh;
+}
+
+img {
+    width: 456px;
+    height: 561.95px;
+    position: relative;
+    top: 80px;
+    right: 120px;
+}
+
+nav {
+    margin: 24px 0 0 57px;
+}
+
+@media screen and (max-width: 413px) {
+    nav {
+        display: none;
+    }
+
+    h1 {
+        width: 100%;
+        height: 30%;
+        text-align: center;
+        font-size: 36px;
+        line-height: 52px;
+        margin-left: 60px;
+    }
+
+    p {
+        width: 100%;
+        height: 100%;
+        font-size: 18px;
+        line-height: 24px;
+        text-align: center;
+        margin: 20px 0 20px 60px;
+
+    }
+
+    div {
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .content-right {
+        width: 420px;
+        height: 400px;
+        display: block;
+    }
+
+    img {
+        width: 271px;
+        height: 322.95px;
+        margin: -40px 0 0 150px;
+    }
+
+    button {
+        width: 260px;
+        height: 60px;
+        margin: 0 0 30px 30px;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}
