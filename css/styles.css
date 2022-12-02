@@ -83,7 +83,7 @@ nav {
         text-align: center;
         font-size: 36px;
         line-height: 52px;
-        margin-left: 45px;
+        margin-left: 60px;
     }
 
     p {
@@ -92,7 +92,7 @@ nav {
         font-size: 18px;
         line-height: 24px;
         text-align: center;
-        margin: 20px 0 20px 45px;
+        margin: 20px 0 20px 60px;
 
     }
 
@@ -116,7 +116,7 @@ nav {
     button {
         width: 260px;
         height: 60px;
-        margin: 0 0 30px 10px;
+        margin: 0 0 30px 30px;
     }
 
     body {
