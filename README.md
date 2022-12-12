@@ -7,7 +7,15 @@
 Foram utilizados as seguintes técnologias: <br>
   -HTML<br>
   -CSS
+   
+  <h2>Sobre o Projeto:</h2>
   
+  Nesse projeto eu não estava conseguindo colocar um elemento do lado do outro na posição determinada pelo projeto do Figma até que eu lembrei de um ensino do Rodolfo no curso sobre position: absolute que ajuda a configurar com margin os elementos.
+  
+  Foi utlizado mais HTML Semãntico como por exemplo, section, header, nav.
+  
+  
+ 
   Foi feito a opção Mobile(413px) e para Desktop
   
   Segue as imagens do projeto:
