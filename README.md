@@ -1,8 +1,8 @@
 <h1>Projeto Easy Shopping Mobile</h1>
 <br>
 :bookmark_tabs::bookmark_tabs::bookmark_tabs: <br>
+<br>
 
-<p>Foi feito um projeto com base no Curso do <a href="https://rodolfomori.com.br/devclub">Dev Club</a>
 
 Foram utilizados as seguintes técnologias: <br>
   -HTML<br>
